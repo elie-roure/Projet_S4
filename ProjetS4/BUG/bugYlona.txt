@@ -1,0 +1,4 @@
+1. bug intro
+2. bug plein ecran
+3. texte superposé
+4. plafond revenir en arriere

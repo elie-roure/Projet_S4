@@ -1,6 +1,6 @@
 stylo
-gelHydroalcoolique
-boutOrdonnance
+#gelHydroalcoolique
+#boutOrdonnance
 badge
 cleeCoffre
 telephone
